@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Josyno106
-- 👀 I’m interested in ... Web and Mobile Development 
-- 🌱 I’m currently learning ... Sanity
+- 👋 Hi, I’m Joshua Nderi
+- 👀 I’m an experienced Web and Mobile Developer
+- 🌱 I’m currently learning ... Sanity, Solidity, Vue, Nuxt, Mongo
 - 💞️ I’m looking to collaborate on ... Web (React, Firebase, Javascript) and hybrid mobile (Flutter) projects
 - 📫 How to reach me ... tapamconsultancy@gmail.com
 
