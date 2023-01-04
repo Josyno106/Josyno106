@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joshua Nderi
+- 👋 Hi, I’m Joshua Nderi Wanjugu
 - 👀 I’m an experienced full-stack Web and Mobile Developer
 - 🌱 I’m currently learning ... Sanity, Solidity,
 - 💞️ I’m looking to collaborate on ... Web (React, Firebase, Javascript) and hybrid mobile (Flutter) projects
